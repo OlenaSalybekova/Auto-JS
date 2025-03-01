@@ -1,0 +1,27 @@
+{
+  "name": "project",
+  "version": "1.2.3",
+  "description": "Study",
+  "main": "package.json",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlenaSalybekova/Auto-JS.git"
+  },
+  "keywords": [
+    "L"
+  ],
+  "author": "O.S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlenaSalybekova/Auto-JS/issues"
+  },
+  "homepage": "https://github.com/OlenaSalybekova/Auto-JS#readme",
+  "type": "module"
+}
