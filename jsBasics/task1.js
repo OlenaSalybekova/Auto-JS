@@ -1,14 +1,14 @@
 const str = "Hello JS!";
-console.log (str);
+console.log(str);
 
 const num = 15;
-console.log (num);
+console.log(num);
 
 const boolean = false;
-console.log (boolean);
+console.log(boolean);
 
 const a = null;
-console.log (a);
+console.log(a);
 
 let test;
-console.log (test);
+console.log(test);
