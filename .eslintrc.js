@@ -1,15 +1,18 @@
 module.exports = {
-  extends: ["eslint:recommended", "plugin:prettier/recommended"],
   env: {
-    browser: true,
+    jest: true,
     node: true,
-    es6: true,
   },
+  extends: [
+    'eslint:recommended',
+    'plugin:prettier/recommended',
+    'plugin:jest/recommended',
+  ],
   parserOptions: {
-    ecmaVersion: "latest",
-    sourceType: "module",
+    ecmaVersion: 2020,
+    sourceType: 'module',
   },
   rules: {
-    "prettier/prettier": "error",
+    
   },
 };
